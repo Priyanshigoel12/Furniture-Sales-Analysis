@@ -35,12 +35,18 @@ Furniture-Sales-Analysis/
 - **Recommendations:** Focus marketing on high-profit regions & optimize inventory for fast-selling categories.  
 
 ---
+## 📊 Dashboard Preview  
+
+Here is a preview of the Power BI dashboard:  
+![global furniture sales dashboard](https://github.com/user-attachments/assets/bc20d892-3409-4e5a-92da-39d3b4d47b38)
+
+
 
 ## 🚀 How to Use
 1. Clone or download this repository.  
 2. Open `furniture-sales.pbix` in **Power BI Desktop**.  
 3. If prompted, update the data source path to `data/Big_Shop_Sales.xlsx`.  
-4. Refresh and explore the interactive dashboard.  
+4. Refresh and explore the interactive dashboard.
 
 ---
 
